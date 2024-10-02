@@ -1,6 +1,6 @@
 /*estilo para el emcabezado*/
 header{
-    background-color: rgb(53, 233, 240);
+    background-color: rgb(24, 151, 235);
     padding: 20px;
     text-align: center;
     color: white;
@@ -34,7 +34,7 @@ nav a{
 }
 
     footer{
-        background-color: #333;
+        background-color:rgb(24, 151, 235);
         color: white;
         text-align: center;
         padding: 10px;
