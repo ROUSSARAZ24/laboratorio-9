@@ -12,7 +12,7 @@ nav a{
     margin: 0 15px;
     font-weight: bold;
 }
-/nav a:hover{
+nav a:hover{
     color: chocolate;
 }
 /*estilo para la seccion principal*/
@@ -32,12 +32,10 @@ nav a{
     font-size: 16px;
     line-height: 1.6;
 }
-
-    footer{
-        background-color:rgb(24, 151, 235);
-        color: white;
-        text-align: center;
-        padding: 10px;
-        margin-top: 20px;
-
-    }
+footer{
+    background-color:rgb(24, 151, 235);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
