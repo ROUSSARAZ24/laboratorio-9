@@ -13,7 +13,7 @@ nav a{
     font-weight: bold;
 }
 nav a:hover{
-    color: chocolate;
+    color: rgb(19, 95, 53);
 }
 /*estilo para la seccion principal*/
 .contenedor{
