@@ -33,7 +33,7 @@ nav a:hover{
     line-height: 1.6;
     font-family: Verdana, Geneva, Tahoma, sans-serif 20px;
 }
-.contenedor li{
+.contenedor  ol li{
     color: #170483;
     font-size: 26px;
     line-height: 1.6;
